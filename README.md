@@ -1,3 +1,5 @@
+<img  src="https://github.com/lauraaristegui/gif-expert-app/blob/main/src/assets/imagen1.png" alt="gif-app"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
